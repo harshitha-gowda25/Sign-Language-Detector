@@ -17,12 +17,9 @@ Installation:
 7. Run inference_classifier.py
 
 Usage:
-Ensure your webcam is connected.
-Run the script, and the system will start detecting sign language gestures.
-The recognized gestures will be displayed as text in real-time.
+1. Ensure your webcam is connected.
+2. Run the script, and the system will start detecting sign language gestures.
+3. The recognized gestures will be displayed as text in real-time.
 
 Technologies Used:
-Python
-OpenCV
-TensorFlow/Keras (for deep learning model)
-MediaPipe (for hand tracking)
+Python, OpenCV, TensorFlow/Keras (for deep learning model), MediaPipe (for hand tracking)
