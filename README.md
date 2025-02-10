@@ -26,5 +26,6 @@ Usage:
 3. The recognized gestures will be displayed as text in real-time.
 
 Technologies Used: 
+
 Python, OpenCV, TensorFlow/Keras (for deep learning model), MediaPipe (for hand tracking)
    
