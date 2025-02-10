@@ -4,17 +4,17 @@ A real-time sign language detection system using Python, OpenCV, and deep learni
 
 Features:
 
-Detects and classifies sign language gestures in real-time.
-Uses a trained deep learning model for accurate recognition.
-Implements OpenCV for image processing and hand tracking.
-Displays the recognized gesture as text on the screen.
+1. Detects and classifies sign language gestures in real-time.
+2. Uses a trained deep learning model for accurate recognition.
+3. Implements OpenCV for image processing and hand tracking.
+4. Displays the recognized gesture as text on the screen.
 
 Installation:
 
 1. Clone the repository
 2. Create a virtual environment
 3. Install Requirements
-4. Run collect_imgs.pu
+4. Run collect_imgs.py
 5. Run create_dataset.py -> This will generate data.pickle file
 6. Run train_classifier.py -> This will generate model.p file
 7. Run inference_classifier.py
