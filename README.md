@@ -27,5 +27,8 @@ Usage:
 
 Technologies Used: 
 
-Python, OpenCV, TensorFlow/Keras (for deep learning model), MediaPipe (for hand tracking)
+1. Python
+2. OpenCV
+3. TensorFlow/Keras (for deep learning model)
+4. MediaPipe (for hand tracking)
    
