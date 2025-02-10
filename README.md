@@ -16,12 +16,12 @@ Installation:
 6. Run train_classifier.py
 7. Run inference_classifier.py
 
-Usage
+Usage:
 Ensure your webcam is connected.
 Run the script, and the system will start detecting sign language gestures.
 The recognized gestures will be displayed as text in real-time.
 
-Technologies Used
+Technologies Used:
 Python
 OpenCV
 TensorFlow/Keras (for deep learning model)
