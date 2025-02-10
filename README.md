@@ -1,4 +1,5 @@
-#Sign Language Detector
+Sign Language Detector
+
 A real-time sign language detection system using Python, OpenCV, and deep learning to recognize hand gestures and translate them into text.
 
 Features:
